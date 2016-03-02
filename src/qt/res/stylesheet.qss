@@ -1,0 +1,1 @@
+QDialog ,QWidget { background-color: rgb(255, 255, 255);    font: 9pt "微软雅黑";}
